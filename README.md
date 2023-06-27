@@ -10,6 +10,7 @@ Simple implementation for 3 different BERT model to demonstrate they can be used
 + we have implemented 3 models by writing simple wrapper code on models published by sparknlp
 + bert_qa_arap_qa_bert_large_v2, bert_qa_arap_qa_bert_v2, bert_qa_arap_qa_bert have been demonstrated in the file
 + our model requires question, context pair and it is able to genearate the answer corresponding to it
++ refer to **Project 2: Arabic Chatbot** in endsem_report.pdf for indept details on the project
 
 ## Features of the project
 + simple implementation for demonstarion purposes
